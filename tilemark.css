@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.loc {
+    background-color: #000;
+    opacity: 0.4;
+    height: 32px;
+    width: 32px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 1px solid #fff;
+}
+
+.loc:hover {
+    background-color: #fff000;
+}
